@@ -1,0 +1,118 @@
+Age Group,Geo Type,Indicator,Rate,Time,Vaccine,ATTR(Suppressed),Latitude (generated),Longitude (generated),SUM(Count),SUM(LB),SUM(Population),SUM(UB),Year (Oct-Dec)
+6mo-17 yrs,King,Child Influenza Vaccine,25.6,2015,1+ Flu,No,47.473,-121.803,131763,25.5,513966,25.8,2015
+6mo-17 yrs,Whitman,Child Influenza Vaccine,23.9,2015,1+ Flu,No,46.978,-117.644,2036,23,8525,24.8,2015
+6mo-17 yrs,Douglas,Child Influenza Vaccine,23.5,2015,1+ Flu,No,47.718,-119.634,2411,22.7,10266,24.3,2015
+6mo-17 yrs,Chelan,Child Influenza Vaccine,22.5,2015,1+ Flu,No,47.819,-120.52,4753,22,21109,23.1,2015
+6mo-17 yrs,Walla Walla,Child Influenza Vaccine,22.4,2015,1+ Flu,No,46.285,-118.516,3039,21.7,13548,23.1,2015
+6mo-17 yrs,Kittitas,Child Influenza Vaccine,22,2015,1+ Flu,No,47.137,-120.695,1778,21.1,8086,22.9,2015
+6mo-17 yrs,Snohomish,Child Influenza Vaccine,21.4,2015,1+ Flu,No,48.037,-121.682,40967,21.2,191821,21.5,2015
+6mo-17 yrs,Grant,Child Influenza Vaccine,21.3,2015,1+ Flu,No,47.134,-119.508,6613,20.9,31036,21.8,2015
+6mo-17 yrs,Yakima,Child Influenza Vaccine,21,2015,1+ Flu,No,46.476,-120.694,17333,20.7,82544,21.3,2015
+6mo-17 yrs,Kitsap,Child Influenza Vaccine,21,2015,1+ Flu,No,47.589,-122.729,13141,20.7,62602,21.3,2015
+6mo-17 yrs,Thurston,Child Influenza Vaccine,21,2015,1+ Flu,No,46.913,-122.702,14089,20.7,67171,21.3,2015
+6mo-17 yrs,San Juan,Child Influenza Vaccine,20.8,2015,1+ Flu,No,48.583,-122.983,527,19.3,2532,22.4,2015
+6mo-17 yrs,Benton,Child Influenza Vaccine,20.6,2015,1+ Flu,No,46.281,-119.408,11493,20.3,55678,21,2015
+6mo-17 yrs,Franklin,Child Influenza Vaccine,20,2015,1+ Flu,No,46.509,-118.828,6285,19.6,31364,20.5,2015
+6mo-17 yrs,Adams,Child Influenza Vaccine,20,2015,1+ Flu,No,46.998,-118.664,1736,19.2,8677,20.9,2015
+6mo-17 yrs,Pierce,Child Influenza Vaccine,19.3,2015,1+ Flu,No,46.983,-122.113,45606,19.1,236316,19.5,2015
+6mo-17 yrs,Skagit,Child Influenza Vaccine,19.1,2015,1+ Flu,No,48.47,-121.727,5998,18.7,31323,19.6,2015
+6mo-17 yrs,Okanogan,Child Influenza Vaccine,18.1,2015,1+ Flu,No,48.533,-119.86,1845,17.3,10208,18.8,2015
+6mo-17 yrs,Cowlitz,Child Influenza Vaccine,18.1,2015,1+ Flu,No,46.151,-122.728,5092,17.6,28182,18.5,2015
+6mo-17 yrs,Spokane,Child Influenza Vaccine,17.8,2015,1+ Flu,No,47.653,-117.431,21729,17.6,121861,18,2015
+6mo-17 yrs,Lincoln,Child Influenza Vaccine,17.7,2015,1+ Flu,No,47.546,-118.399,419,16.2,2372,19.3,2015
+6mo-17 yrs,Whatcom,Child Influenza Vaccine,17.2,2015,1+ Flu,No,48.823,-121.988,7531,16.8,43886,17.5,2015
+6mo-17 yrs,Grays Harbor,Child Influenza Vaccine,16.5,2015,1+ Flu,No,47.155,-123.794,2478,15.9,15040,17.1,2015
+6mo-17 yrs,Clark,Child Influenza Vaccine,16.4,2015,1+ Flu,No,45.786,-122.52,21416,16.2,130772,16.6,2015
+6mo-17 yrs,Mason,Child Influenza Vaccine,16.4,2015,1+ Flu,No,47.346,-123.153,1918,15.7,11723,17,2015
+6mo-17 yrs,Wahkiakum,Child Influenza Vaccine,15.5,2015,1+ Flu,No,46.324,-123.47,123,13.1,796,18.1,2015
+6mo-17 yrs,Lewis,Child Influenza Vaccine,14.9,2015,1+ Flu,No,46.575,-122.367,2823,14.4,18956,15.4,2015
+6mo-17 yrs,Columbia,Child Influenza Vaccine,14.5,2015,1+ Flu,No,46.293,-117.922,108,12.1,745,17.2,2015
+6mo-17 yrs,Clallam,Child Influenza Vaccine,13.6,2015,1+ Flu,No,48.077,-123.872,1896,13,13961,14.2,2015
+6mo-17 yrs,Jefferson,Child Influenza Vaccine,13.5,2015,1+ Flu,No,47.699,-123.655,649,12.6,4803,14.5,2015
+6mo-17 yrs,Garfield,Child Influenza Vaccine,13.4,2015,1+ Flu,No,46.339,-117.546,77,10.9,573,16.5,2015
+6mo-17 yrs,Ferry,Child Influenza Vaccine,12.2,2015,1+ Flu,No,48.438,-118.487,127,10.3,1041,14.3,2015
+6mo-17 yrs,Island,Child Influenza Vaccine,11.8,2015,1+ Flu,No,48.19,-122.595,2392,11.4,20283,12.2,2015
+6mo-17 yrs,Stevens,Child Influenza Vaccine,8.4,2015,1+ Flu,No,48.416,-117.915,703,7.8,8380,9,2015
+6mo-17 yrs,Pacific,Child Influenza Vaccine,8.3,2015,1+ Flu,No,46.525,-123.769,306,7.4,3708,9.2,2015
+6mo-17 yrs,Skamania,Child Influenza Vaccine,7.7,2015,1+ Flu,No,46.035,-121.882,171,6.7,2221,8.9,2015
+6mo-17 yrs,Pend Oreille,Child Influenza Vaccine,7.6,2015,1+ Flu,No,48.523,-117.33,181,6.6,2397,8.7,2015
+6mo-17 yrs,Klickitat,Child Influenza Vaccine,6.2,2015,1+ Flu,No,45.871,-120.739,272,5.5,4380,7,2015
+6mo-17 yrs,Asotin,Child Influenza Vaccine,5.5,2015,1+ Flu,No,46.208,-117.197,271,4.9,4969,6.1,2015
+6mo-17 yrs,King,Child Influenza Vaccine,28.7,2016,1+ Flu,No,47.473,-121.803,139586,28.6,485716,28.9,2016
+6mo-17 yrs,Kittitas,Child Influenza Vaccine,25.8,2016,1+ Flu,No,47.137,-120.695,2003,24.9,7753,26.8,2016
+6mo-17 yrs,Douglas,Child Influenza Vaccine,24.9,2016,1+ Flu,No,47.718,-119.634,2361,24,9498,25.7,2016
+6mo-17 yrs,Chelan,Child Influenza Vaccine,24.8,2016,1+ Flu,No,47.819,-120.52,4935,24.2,19901,25.4,2016
+6mo-17 yrs,Walla Walla,Child Influenza Vaccine,23.7,2016,1+ Flu,No,46.285,-118.516,2911,22.9,12302,24.4,2016
+6mo-17 yrs,Whitman,Child Influenza Vaccine,23,2016,1+ Flu,No,46.978,-117.644,1862,22.1,8094,23.9,2016
+6mo-17 yrs,Snohomish,Child Influenza Vaccine,22.8,2016,1+ Flu,No,48.037,-121.682,41149,22.6,180315,23,2016
+6mo-17 yrs,Thurston,Child Influenza Vaccine,22.7,2016,1+ Flu,No,46.913,-122.702,14165,22.4,62316,23.1,2016
+6mo-17 yrs,Yakima,Child Influenza Vaccine,22.5,2016,1+ Flu,No,46.476,-120.694,18040,22.2,80097,22.8,2016
+6mo-17 yrs,Skagit,Child Influenza Vaccine,21.5,2016,1+ Flu,No,48.47,-121.727,6455,21.1,29982,22,2016
+6mo-17 yrs,Grant,Child Influenza Vaccine,21.5,2016,1+ Flu,No,47.134,-119.508,6422,21,29920,21.9,2016
+6mo-17 yrs,Benton,Child Influenza Vaccine,21.2,2016,1+ Flu,No,46.281,-119.408,11324,20.9,53410,21.6,2016
+6mo-17 yrs,Pierce,Child Influenza Vaccine,20.8,2016,1+ Flu,No,46.983,-122.113,46372,20.6,222804,21,2016
+6mo-17 yrs,Whatcom,Child Influenza Vaccine,20.5,2016,1+ Flu,No,48.823,-121.988,9013,20.2,43882,20.9,2016
+6mo-17 yrs,Franklin,Child Influenza Vaccine,20.3,2016,1+ Flu,No,46.509,-118.828,6007,19.8,29661,20.7,2016
+6mo-17 yrs,Kitsap,Child Influenza Vaccine,20.1,2016,1+ Flu,No,47.589,-122.729,11876,19.8,58963,20.5,2016
+6mo-17 yrs,Spokane,Child Influenza Vaccine,19.3,2016,1+ Flu,No,47.653,-117.431,21934,19.1,113463,19.6,2016
+6mo-17 yrs,Adams,Child Influenza Vaccine,19.2,2016,1+ Flu,No,46.998,-118.664,1602,18.4,8327,20.1,2016
+6mo-17 yrs,San Juan,Child Influenza Vaccine,18.9,2016,1+ Flu,No,48.583,-122.983,403,17.3,2136,20.6,2016
+6mo-17 yrs,Grays Harbor,Child Influenza Vaccine,18.8,2016,1+ Flu,No,47.155,-123.794,2577,18.2,13682,19.5,2016
+6mo-17 yrs,Okanogan,Child Influenza Vaccine,18.8,2016,1+ Flu,No,48.533,-119.86,1837,18,9769,19.6,2016
+6mo-17 yrs,Lincoln,Child Influenza Vaccine,18.8,2016,1+ Flu,No,47.546,-118.399,413,17.2,2197,20.5,2016
+6mo-17 yrs,Cowlitz,Child Influenza Vaccine,18.7,2016,1+ Flu,No,46.151,-122.728,4878,18.2,26097,19.2,2016
+6mo-17 yrs,Clark,Child Influenza Vaccine,16.8,2016,1+ Flu,No,45.786,-122.52,20647,16.6,122934,17,2016
+6mo-17 yrs,Mason,Child Influenza Vaccine,16.7,2016,1+ Flu,No,47.346,-123.153,1785,16,10718,17.4,2016
+6mo-17 yrs,Lewis,Child Influenza Vaccine,15.1,2016,1+ Flu,No,46.575,-122.367,2653,14.6,17544,15.7,2016
+6mo-17 yrs,Clallam,Child Influenza Vaccine,13.9,2016,1+ Flu,No,48.077,-123.872,1704,13.3,12297,14.5,2016
+6mo-17 yrs,Wahkiakum,Child Influenza Vaccine,13.4,2016,1+ Flu,No,46.324,-123.47,92,11,688,16.1,2016
+6mo-17 yrs,Columbia,Child Influenza Vaccine,13.3,2016,1+ Flu,No,46.293,-117.922,83,10.9,622,16.3,2016
+6mo-17 yrs,Jefferson,Child Influenza Vaccine,13.1,2016,1+ Flu,No,47.699,-123.655,624,12.2,4749,14.1,2016
+6mo-17 yrs,Island,Child Influenza Vaccine,12.5,2016,1+ Flu,No,48.19,-122.595,2289,12.1,18262,13,2016
+6mo-17 yrs,Ferry,Child Influenza Vaccine,12.2,2016,1+ Flu,No,48.438,-118.487,118,10.3,967,14.4,2016
+6mo-17 yrs,Garfield,Child Influenza Vaccine,12,2016,1+ Flu,No,46.339,-117.546,63,9.5,526,15,2016
+6mo-17 yrs,Pacific,Child Influenza Vaccine,10.4,2016,1+ Flu,No,46.525,-123.769,341,9.4,3269,11.5,2016
+6mo-17 yrs,Stevens,Child Influenza Vaccine,8.8,2016,1+ Flu,No,48.416,-117.915,686,8.2,7755,9.5,2016
+6mo-17 yrs,Pend Oreille,Child Influenza Vaccine,7.7,2016,1+ Flu,No,48.523,-117.33,165,6.6,2145,8.9,2016
+6mo-17 yrs,Asotin,Child Influenza Vaccine,7.4,2016,1+ Flu,No,46.208,-117.197,345,6.7,4650,8.2,2016
+6mo-17 yrs,Skamania,Child Influenza Vaccine,5.9,2016,1+ Flu,No,46.035,-121.882,119,5,2002,7.1,2016
+6mo-17 yrs,Klickitat,Child Influenza Vaccine,5.5,2016,1+ Flu,No,45.871,-120.739,220,4.8,4009,6.2,2016
+6mo-17 yrs,King,Child Influenza Vaccine,26.2,2017,1+ Flu,No,47.473,-121.803,133874,26,511721,26.3,2017
+6mo-17 yrs,Whitman,Child Influenza Vaccine,24.1,2017,1+ Flu,No,46.978,-117.644,2011,23.2,8358,25,2017
+6mo-17 yrs,Snohomish,Child Influenza Vaccine,22.5,2017,1+ Flu,No,48.037,-121.682,42389,22.4,188026,22.7,2017
+6mo-17 yrs,Kittitas,Child Influenza Vaccine,21.8,2017,1+ Flu,No,47.137,-120.695,1724,20.9,7908,22.7,2017
+6mo-17 yrs,Douglas,Child Influenza Vaccine,21.5,2017,1+ Flu,No,47.718,-119.634,2106,20.7,9782,22.4,2017
+6mo-17 yrs,Yakima,Child Influenza Vaccine,21.2,2017,1+ Flu,No,46.476,-120.694,17158,20.9,81054,21.5,2017
+6mo-17 yrs,Chelan,Child Influenza Vaccine,20.8,2017,1+ Flu,No,47.819,-120.52,4337,20.3,20839,21.4,2017
+6mo-17 yrs,Whatcom,Child Influenza Vaccine,20.3,2017,1+ Flu,No,48.823,-121.988,8810,19.9,43455,20.7,2017
+6mo-17 yrs,San Juan,Child Influenza Vaccine,20.2,2017,1+ Flu,No,48.583,-122.983,443,18.6,2189,22,2017
+6mo-17 yrs,Thurston,Child Influenza Vaccine,19.7,2017,1+ Flu,No,46.913,-122.702,12898,19.4,65498,20,2017
+6mo-17 yrs,Skagit,Child Influenza Vaccine,19.3,2017,1+ Flu,No,48.47,-121.727,5980,18.8,31018,19.7,2017
+6mo-17 yrs,Kitsap,Child Influenza Vaccine,19.2,2017,1+ Flu,No,47.589,-122.729,11624,18.9,60490,19.5,2017
+6mo-17 yrs,Benton,Child Influenza Vaccine,19.2,2017,1+ Flu,No,46.281,-119.408,10762,18.9,56108,19.5,2017
+6mo-17 yrs,Walla Walla,Child Influenza Vaccine,18.9,2017,1+ Flu,No,46.285,-118.516,2469,18.2,13089,19.5,2017
+6mo-17 yrs,Pierce,Child Influenza Vaccine,18.8,2017,1+ Flu,No,46.983,-122.113,43303,18.6,230888,18.9,2017
+6mo-17 yrs,Grant,Child Influenza Vaccine,18.5,2017,1+ Flu,No,47.134,-119.508,5665,18.1,30554,19,2017
+6mo-17 yrs,Cowlitz,Child Influenza Vaccine,18,2017,1+ Flu,No,46.151,-122.728,4839,17.6,26873,18.5,2017
+6mo-17 yrs,Franklin,Child Influenza Vaccine,17.8,2017,1+ Flu,No,46.509,-118.828,5358,17.4,30042,18.3,2017
+6mo-17 yrs,Spokane,Child Influenza Vaccine,17.4,2017,1+ Flu,No,47.653,-117.431,20676,17.1,119141,17.6,2017
+6mo-17 yrs,Okanogan,Child Influenza Vaccine,17.1,2017,1+ Flu,No,48.533,-119.86,1724,16.4,10055,17.9,2017
+6mo-17 yrs,Adams,Child Influenza Vaccine,17.1,2017,1+ Flu,No,46.998,-118.664,1447,16.3,8457,17.9,2017
+6mo-17 yrs,Lincoln,Child Influenza Vaccine,16.9,2017,1+ Flu,No,47.546,-118.399,384,15.4,2277,18.5,2017
+6mo-17 yrs,Grays Harbor,Child Influenza Vaccine,16.7,2017,1+ Flu,No,47.155,-123.794,2466,16.1,14743,17.3,2017
+6mo-17 yrs,Clark,Child Influenza Vaccine,16.2,2017,1+ Flu,No,45.786,-122.52,20531,16,126680,16.4,2017
+6mo-17 yrs,Mason,Child Influenza Vaccine,16.2,2017,1+ Flu,No,47.346,-123.153,1763,15.5,10895,16.9,2017
+6mo-17 yrs,Lewis,Child Influenza Vaccine,16.2,2017,1+ Flu,No,46.575,-122.367,2908,15.6,17979,16.7,2017
+6mo-17 yrs,Garfield,Child Influenza Vaccine,15.2,2017,1+ Flu,No,46.339,-117.546,84,12.5,551,18.5,2017
+6mo-17 yrs,Clallam,Child Influenza Vaccine,13.4,2017,1+ Flu,No,48.077,-123.872,1787,12.8,13378,13.9,2017
+6mo-17 yrs,Jefferson,Child Influenza Vaccine,12.4,2017,1+ Flu,No,47.699,-123.655,562,11.5,4536,13.4,2017
+6mo-17 yrs,Wahkiakum,Child Influenza Vaccine,11.9,2017,1+ Flu,No,46.324,-123.47,87,9.8,730,14.5,2017
+6mo-17 yrs,Ferry,Child Influenza Vaccine,11.9,2017,1+ Flu,No,48.438,-118.487,116,10,974,14.1,2017
+6mo-17 yrs,Island,Child Influenza Vaccine,11.5,2017,1+ Flu,No,48.19,-122.595,2215,11.1,19192,12,2017
+6mo-17 yrs,Columbia,Child Influenza Vaccine,10.9,2017,1+ Flu,No,46.293,-117.922,72,8.7,660,13.5,2017
+6mo-17 yrs,Pacific,Child Influenza Vaccine,9,2017,1+ Flu,No,46.525,-123.769,309,8.1,3447,10,2017
+6mo-17 yrs,Skamania,Child Influenza Vaccine,8.8,2017,1+ Flu,No,46.035,-121.882,180,7.7,2044,10.1,2017
+6mo-17 yrs,Pend Oreille,Child Influenza Vaccine,7.8,2017,1+ Flu,No,48.523,-117.33,178,6.8,2278,9,2017
+6mo-17 yrs,Klickitat,Child Influenza Vaccine,7.6,2017,1+ Flu,No,45.871,-120.739,313,6.9,4095,8.5,2017
+6mo-17 yrs,Stevens,Child Influenza Vaccine,7.5,2017,1+ Flu,No,48.416,-117.915,605,7,8040,8.1,2017
+6mo-17 yrs,Asotin,Child Influenza Vaccine,3.2,2017,1+ Flu,No,46.208,-117.197,146,2.7,4588,3.7,2017
