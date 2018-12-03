@@ -4,6 +4,8 @@ Predicting State Flu Vaccination Coverage
 
 Insight Seattle 18c: Ori Weiner, Wik Hung Pun, Willy Voje, Regina Carns, Lauren Kendrick
 
+*Note, this is a text-only version of our report, which is fully available as a PDF (contact us)*
+
 Executive Summary
 Problem Statement 
 The goal of this report is to identify potential data sources and create a month to month model of flu vaccination coverage at the state and national levels that does not rely on phone survey data.
